@@ -1,5 +1,4 @@
-# Clustering_Countries_For_Providing_FInancial_Aid
-Clustering of Countries is done by different clustering techniques based on socio and economic factors to provide financial aid based on the clusters
+
 
 # Clustering_Countries_For_Providing_FInancial_Aid
 Clustering of Countries is done by different clustering techniques based on socio and economic factors to provide financial aid based on the clusters
@@ -9,7 +8,7 @@ HELP International is an international humanitarian NGO that is committed to fig
 After the recent funding programmes, they have been able to raise around $ 10 million. Now the CEO of the NGO needs to decide how to use this money strategically and effectively. The significant issues that come while making this decision are mostly related to choosing the countries that are in the direst need of aid. 
 And this is where you come in as a data analyst. Your job is to categorise the countries using some socio-economic and health factors that determine the overall development of the country. Then you need to suggest the countries which the CEO needs to focus on the most.
 
-Objectives
+### Objectives
 Your main task is to cluster the countries by the factors mentioned above and then present your solution and recommendations to the CEO using a PPT.  The following approach is suggested :
 Start off with the necessary data inspection and EDA tasks suitable for this dataset - data cleaning, univariate analysis, bivariate analysis etc.
 Outlier Analysis: You must perform the Outlier Analysis on the dataset. However, you do have the flexibility of not removing the outliers if it suits the business needs or a lot of countries are getting removed. Hence, all you need to do is find the outliers in the dataset, and then choose whether to keep them or remove them depending on the results you get.
