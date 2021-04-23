@@ -18,3 +18,9 @@ Also, you need to perform visualisations on the clusters that have been formed. 
 Both K-means and Hierarchical may give different results because of previous analysis (whether you chose to keep or remove the outliers, how many clusters you chose,  etc.) Hence, there might be some subjectivity in the final number of countries that you think should be reported back to the CEO since they depend upon the preceding analysis as well. Here, make sure that you report back at least 5 countries which are in direst need of aid from the analysis work that you perform.
 
 
+### Files:
+- 'Country-data.csv' file contains the data of different countries and their socio-economic factors
+- 'data-dictionary+.xlsx' file contains the description of the columns used in the data file
+- 'Clustering of Countries Presentation.pdf' contains the important insights derived using different clustering techniques 
+- 'CLUSTERING OF COUNTRIES METHODOLOGY.docx' file contains the methodology used to derive insights 
+- 'Clustering of Countries.ipynb' file contains the code for clustering methods and data analysis
